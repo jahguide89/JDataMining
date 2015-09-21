@@ -1,1 +1,8 @@
-headfirst.combined.djview
+es.ull.datamining
+es.ull.datamining.classifiers
+es.ull.datamining.core
+es.ull.datamining.core.test
+es.ull.datamining.experiment
+es.ull.datamining.filters
+es.ull.datamining.gui
+es.ull.datamining.util
